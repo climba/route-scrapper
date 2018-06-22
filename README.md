@@ -22,10 +22,10 @@
 
 2. You will need to configure mongoDB on your local machine to run this app. Once you have mongoDB configured correctly you are ready to run the app
 
-3. Once mongo is running and you have installed the required dependencies run the app by running _node server.js_ or _nodemon serverjs_
+3. Once mongo is running and you have installed the required dependencies run the app by running _node server.js_ or _nodemon server.js_
 
-4. The database in this project is called _routescrapper_ but you can name your database anythignyou like.  
-    _Just edit line 13 in the file "[/server.js](/server.js)"_
+4. The database in this project is named _routescrapper_ but you can name your database anything you like.  
+    _Just edit line 13 in the file "[/server.js](/server.js)" proir to starting the app_
 
 ## Front end
 
