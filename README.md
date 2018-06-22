@@ -1,4 +1,4 @@
-# Node Express Handlebars application
+# Node express scrapper application
 
 #### This application scrapes a webste and adds the data to a mongoDB database
 
