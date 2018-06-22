@@ -23,6 +23,7 @@ module.exports = function (app) {
 
         result.title = $(this).children("td").children("a").children("strong").text();
         result.link = $(this).children("td").children("a").attr("href");
+        result.area = $(this).children("td").children("span.text-warm").children("a").text();
 
         db.Route.find({ title: result.title }) // Prevents duplicates of Routes. (Thanks, Jesse L.)
           .then(function (dbTitle) {
