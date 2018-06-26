@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerauld/mongo-scraper.git"
+    "url": "git+https://github.com/climba/route-scrapper.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jerauld/mongo-scraper/issues"
+    "url": "https://github.com/climba/route-scrapper/issues"
   },
-  "homepage": "https://github.com/jerauld/mongo-scraper#readme",
+  "homepage": "https://github.com/climba/route-scrapper#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
